@@ -1,4 +1,4 @@
-# Azure Blob Storage
+# Azure Blob Storage(In Aws it is S3)
 
 1. What is it?
 
