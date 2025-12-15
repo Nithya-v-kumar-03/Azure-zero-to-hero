@@ -19,3 +19,5 @@
 4. Equivalent service in AWS:
 
     The equivalent service in AWS is Amazon Simple Storage Service (S3). S3 is also an object storage service designed for scalable and secure storage of objects, such as files and data.
+
+   we can store images,videos ,file n source code
