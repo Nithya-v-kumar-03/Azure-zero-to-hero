@@ -80,15 +80,7 @@ Suitable for generic TCP/UDP load balancing without application-specific feature
 - Multi-Factor Authentication (MFA):
 - Audit and Monitoring:
 
-Feature	Azure Load Balancer	Azure Application Gateway
-OSI Layer	Azure Load Balancer works at Layer 4 of the OSI model.	Azure Application Gateway works at Layer 7 of the OSI model.
-Traffic type	It handles any TCP or UDP traffic.	It handles HTTP and HTTPS traffic only.
-Traffic inspection	It does not inspect application-level data.	It inspects HTTP headers, URLs, and cookies.
-Routing capability	It routes traffic based on IP address and port number.	It routes traffic based on URL path and host name.
-SSL termination	It does not support SSL termination.	It supports SSL termination and certificate management.
-Web Application Firewall	It does not provide WAF protection.	It integrates with Web Application Firewall (WAF).
-Performance	It provides very high performance with low latency.	It provides intelligent routing with slightly higher latency.
-Use case	It is best suited for non-web and high-performance workloads.	It is best suited for secure and intelligent web applications.
+
 
 
 
