@@ -1,6 +1,6 @@
 # Azure Networking Advanced
 
-## Azure App Gateway & WAF
+## Azure App Gateway & WAF(L7 layer)
 
 Azure Application Gateway is a web traffic load balancer that enables you to manage and route traffic to your web applications. Web Application Firewall (WAF) provides protection against web vulnerabilities. Key features include:
 
@@ -10,7 +10,7 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 
 - **Web Application Firewall (WAF)**: Protects web applications from common web vulnerabilities and exploits.
 
-## Azure Load Balancer
+## Azure Load Balancer(L4 layer)
 
 Azure Load Balancer distributes incoming network traffic across multiple servers to ensure no single server is overwhelmed. Key features include:
 
